@@ -1,0 +1,24 @@
+AI Engineer job requiring Python, Machine Learning, Deep Learning, NLP.
+
+Software Engineer Job Description:
+We are looking for a skilled Software Engineer with experience in Python, machine learning, and web development. Responsibilities include developing scalable applications, collaborating with cross-functional teams, and implementing AI solutions. Required skills: Python, TensorFlow, React, AWS. Preferred: 3+ years experience.
+
+Data Scientist Position:
+Join our team as a Data Scientist. You will analyze large datasets, build predictive models, and provide insights to drive business decisions. Skills needed: Python, R, SQL, machine learning algorithms. Experience with big data tools like Hadoop or Spark is a plus.
+
+AI Research Engineer:
+Exciting opportunity for an AI Research Engineer to work on cutting-edge projects in natural language processing and computer vision. Requirements: PhD in AI/ML, proficiency in PyTorch, experience with research publications. Location: Remote.
+
+Product Manager Role:
+Seeking a Product Manager to lead product development from ideation to launch. Key skills: Agile methodologies, data analysis, stakeholder management. Experience in tech products preferred.
+
+DevOps Engineer:
+We need a DevOps Engineer to manage our infrastructure and CI/CD pipelines. Expertise in Docker, Kubernetes, Jenkins, and cloud platforms like GCP or Azure required. 2+ years experience.
+Data Scientist with SQL, Python, and statistics
+Software Engineer with Java, DSA, and system design
+Machine Learning Engineer with experience in TensorFlow, PyTorch, and NLP
+Backend Developer with Python, APIs, and database management
+AI Engineer with Python, Machine Learning, NLP
+Data Scientist with SQL, Python, statistics
+Backend Developer with APIs, Python, databases
+Machine Learning Engineer with TensorFlow, PyTorch
